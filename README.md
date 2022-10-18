@@ -2,5 +2,5 @@
 - 👀 I’m interested in becoming a Full-Stack Web Developer
 - 🌱 I’m currently Perfecting my ...(Use of Laravell Framework, Javascript,React js)
 - 💞️ I’m looking to collaborate on ...Existing Projects or New Projects
-- 📫 How to reach me (+2348096796554)
+- 📫 You can reach me through (+2348096796554) or mickyikwuanusi@gmail.com
 
